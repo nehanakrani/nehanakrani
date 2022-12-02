@@ -141,7 +141,7 @@ const workExperiences = {
       role: "Software Engineer",
       company: "Simform Solutions Pvt Ltd, Ahmedabad, India",
       companylogo: require("./assets/images/simformlogo.png"),
-      date: " May/2019 - Present",
+      date: " May/2019 - May/2021",
       descBullets: [
         "Architected overall web application using distinct versions of ruby on rails in different projects and communicating directly with clients to help define features/user stories, improvements to an existing application.",
         "Experience designing API services for mobile, microservices, and using different search engines.",

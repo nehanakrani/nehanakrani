@@ -13,7 +13,6 @@ const greeting = {
 };
 
 const socialMediaLinks = {
-
   github: "https://github.com/nehanakrani",
   linkedin: "https://www.linkedin.com/in/neha-nakrani-522793145/",
   gmail: "nehanakrani04@gmail.com",
@@ -114,42 +113,69 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer Intern",
-      company: "Solutelabs, Ahmedabad, India.",
-      companylogo: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNS43MjgiIGhlaWdodD0iMzUuODQyIiB2aWV3Qm94PSIwIDAgMzUuNzI4IDM1Ljg0MiI+CiAgICA8ZGVmcz4KICAgICAgICA8c3R5bGU+CiAgICAgICAgICAgIC5jbHMtMXtmaWxsOiMxNjQxZmZ9CiAgICAgICAgPC9zdHlsZT4KICAgIDwvZGVmcz4KICAgIDxwYXRoIGlkPSJTaGFwZV85IiBkPSJNODQuMTc5IDc1LjY3OWMtMy42ODItMi41NzgtOS42ODgtNC4yLTE2LjgtNi4zMzYtMy44MTctMS4xNDctNi4zLTQuOTYtMy41MzctNy45MTlhNy4wMTEgNy4wMTEgMCAwIDEgNS4zMzktMi4wMzljNC45MjYgMCAxMC45IDMuMjE0IDEzLjQxMiA1LjM5bDQuMjczLTYuNTU3aDguOTE0Vjg2LjczYzAgNi42NjgtNyA3LjMzLTcgNy4zMyAyLjUyLTguMzEgMS4xNDUtMTQuMzY1LTQuNjAxLTE4LjM4MXptLTIzLjc5MiAzLjIzYTI5LjUzMiAyOS41MzIgMCAwIDAgNi41ODQgMi40NTJjMi40MzkuNzEyIDguNDMxIDIgMTAuNzc2IDQuMjE4IDIuMDUyIDEuOTM5IDIuNTM2IDcuOTQzLTUuOSA4LjE1My0uMTc5IDAtLjM1NC4wMDctLjUyOC4wMDctMTQuMjQtLjAwMi0xMC45MzItMTQuODMtMTAuOTMyLTE0LjgzeiIgY2xhc3M9ImNscy0xIiBkYXRhLW5hbWU9IlNoYXBlIDkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02MC4wNTQgLTU4LjIxOSkiLz4KPC9zdmc+Cg==",
-      date: "Jan/2018 - Aug/2018",
+      role: "Software Engineer",
+      company: "Citizens Advice",
+      companylogo: "https://media.licdn.com/dms/image/C4D0BAQFuYeC6ECxuIw/company-logo_200_200/0/1631303747270?e=1716422400&v=beta&t=y7ZdsqGrdeUMBzsPvqDZqcgJHBP5g903ipyKpfgHJY4",
+      date: "Feb 2023",
+      location: "London, UK",
       descBullets: [
-        "Learned popular Ruby libraries/tools and Re-write web pages in Ruby using the Rails framework to develop code in MVC architecture with developing REST APIs.",
-        "Used RSpec to create test-driven development. Experience with all of the GEMS and libraries for this version of the ruby and rails.",
-        "Managed projects with Agile development methodology, Extreme Programming, and SCRUM via user stories and customer issues"
-      ]
-    },
-    {
-      role: "Ruby on Rails Developer",
-      company: "Techcompose Solution Pvt Ltd, Ahmedabad, India.",
-      companylogo: require("./assets/images/techlogo.png"),
-      date: "Aug/2018 -  May/2019",
-      descBullets: [
-        "Utilized the Ruby on Rails ecosystem with a variety of gems, testing in Minitest or using git workflow similar Front-end technologies.",
-        "Used Rspec to Test Driven Development with wort unit test, functional, and integration tests with Supported product migration and platform upgrades.",
-        "Managed the entire life cycle of the project from the requirement, planning to deployment on Capistrano and Heroku for web applications.",
-        "Analyzed and organized large sets of data with Optimized database query performance decreasing query time by 25% using SQL.",
-        "Worked on overall architectural problems, particularly as they relate to data transferred, scalability, and performance."
+        "Applied Ruby on Rails expertise to develop and maintain robust backend solutions for products, ensuring the seamless functionality of critical components.",
+        "Led comprehensive code refactoring efforts, streamlining codebase complexity and improving maintainability, leading to a more agile development process.",
+        "Played a pivotal role in the creation of an orchestrated product, utilizing Docker services to enhance system reliability and scalability across different environments.",
+        "Conducted thorough code reviews, emphasizing best practices and coding standards, resulting in improved code quality and team collaboration."
       ]
     },
     {
       role: "Software Engineer",
-      company: "Simform Solutions Pvt Ltd, Ahmedabad, India",
-      companylogo: require("./assets/images/simformlogo.png"),
-      date: " May/2019 - May/2021",
+      company: "Full Health Medical",
+      companylogo: "https://media.licdn.com/dms/image/C560BAQE093W2vslY1g/company-logo_200_200/0/1630611995082/full_health_medical_logo?e=1716422400&v=beta&t=M4fOa0VTWj6rI4dIkz8e0aE-8hu9zagLC42H7TflLmg",
+      date: "May 2022 - Jan 2023",
+      location: "London, UK",
       descBullets: [
-        "Architected overall web application using distinct versions of ruby on rails in different projects and communicating directly with clients to help define features/user stories, improvements to an existing application.",
-        "Experience designing API services for mobile, microservices, and using different search engines.",
-        "Designed the server database and wrote stored procedures and triggers for effective data processing and performance.",
-        "Exposure to AWS, docker with DevOps problems at scale, and implemented CI/CD pipeline.",
-        "Mentoring junior developers && perform code reviews of peers."
+        "Improved application efficiency through query optimization and code refactoring.",
+        "Developed and integrated RESTful APIs for web and mobile applications.",
+        "Integrated third-party APIs and services to enhance functionality and provide additional features, contributing to the development of comprehensive healthcare solutions.",
+        "Implemented Agile methodologies and followed best secure coding practices."
       ]
     },
+    {
+      role: "Software Engineer",
+      company: "Simform Solutions Pvt Ltd",
+      companylogo: require("./assets/images/simformlogo.png"),
+      date: "May 2019 - June 2021",
+      location: "Ahmedabad, India",
+      descBullets: [
+        "Architected web applications using Ruby on Rails, designed API services, and communicated directly with clients to define features.",
+        "Led the integration of AWS services and established and maintained robust CI/CD pipelines.",
+        "Collaborated with cross-functional teams to enhance development workflows, contributing to the adoption of microservices architecture and container orchestration with Docker Kubernetes.",
+        "Mentored junior developers and performed code reviews."
+      ]
+    },
+    {
+      role: "Ruby on Rails Developer",
+      company: "Techcompose Solution Pvt Ltd",
+      companylogo: require("./assets/images/techlogo.png"),
+      date: "May 2018 - May 2019",
+      location: "Ahmedabad, India",
+      descBullets: [
+        "Utilized Ruby on Rails ecosystem with HTML, JavaScript, Bootstrap, CSS, and jQuery.",
+        "Conducted Test Driven Development using RSpec and managed product migration and upgrades.",
+        "Optimized database query performance, reducing query time by 25%. Worked on overall architectural problems, scalability, and performance."
+      ]
+    },
+    {
+      role: "Trainee - Internship",
+      company: "Solutelabs",
+      companylogo: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNS43MjgiIGhlaWdodD0iMzUuODQyIiB2aWV3Qm94PSIwIDAgMzUuNzI4IDM1Ljg0MiI+CiAgICA8ZGVmcz4KICAgICAgICA8c3R5bGU+CiAgICAgICAgICAgIC5jbHMtMXtmaWxsOiMxNjQxZmZ9CiAgICAgICAgPC9zdHlsZT4KICAgIDwvZGVmcz4KICAgIDxwYXRoIGlkPSJTaGFwZV85IiBkPSJNODQuMTc5IDc1LjY3OWMtMy42ODItMi41NzgtOS42ODgtNC4yLTE2LjgtNi4zMzYtMy44MTctMS4xNDctNi4zLTQuOTYtMy41MzctNy45MTlhNy4wMTEgNy4wMTEgMCAwIDEgNS4zMzktMi4wMzljNC45MjYgMCAxMC45IDMuMjE0IDEzLjQxMiA1LjM5bDQuMjczLTYuNTU3aDguOTE0Vjg2LjczYzAgNi42NjgtNyA3LjMzLTcgNy4zMyAyLjUyLTguMzEgMS4xNDUtMTQuMzY1LTQuNjAxLTE4LjM4MXptLTIzLjc5MiAzLjIzYTI5LjUzMiAyOS41MzIgMCAwIDAgNi41ODQgMi40NTJjMi40MzkuNzEyIDguNDMxIDIgMTAuNzc2IDQuMjE4IDIuMDUyIDEuOTM5IDIuNTM2IDcuOTQzLTUuOSA4LjE1My0uMTc5IDAtLjM1NC4wMDctLjUyOC4wMDctMTQuMjQtLjAwMi0xMC45MzItMTQuODMtMTAuOTMyLTE0LjgzeiIgY2xhc3M9ImNscy0xIiBkYXRhLW5hbWU9IlNoYXBlIDkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02MC4wNTQgLTU4LjIxOSkiLz4KPC9zdmc+Cg==",
+      date: "Dec 2017 - May 2018",
+      location: "Ahmedabad, India",
+      descBullets: [
+        "Developed web pages in Ruby on Rails using MVC architecture and REST APIs.",
+        "Utilized RSpec for test-driven development and worked with various Ruby gems and libraries.",
+        "Designed user-interface pages using Twitter Bootstrap, CSS, JavaScript, and jQuery.",
+        "Managed projects with Agile development methodology and SCRUM."
+      ]
+    }
   ]
 };
 

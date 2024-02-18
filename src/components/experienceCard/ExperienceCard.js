@@ -26,11 +26,12 @@ export default function ExperienceCard({ cardInfo }) {
         <div className="experience-div-company">
           <h5 className="experience-text-company">{cardInfo.company}</h5>
         </div>
-        
+
         <img crossOrigin={"anonymous"} ref={imgRef} className="experience-roundedimg" src={cardInfo.companylogo} alt={cardInfo.company} onLoad={() => getColorArrays()}/>
       </div>
       <div className="experience-text-details">
         <h5 className="experience-text-role">{cardInfo.role}</h5>
+        <p className="experience-text-location">{cardInfo.location}</p>
         <h5 className="experience-text-date">{cardInfo.date}</h5>
         <p className="subTitle experience-text-desc">{cardInfo.desc}</p>
         <ul>

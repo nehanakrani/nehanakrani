@@ -91,6 +91,16 @@
     line-height: normal;
 }
 
+.experience-text-location {
+    text-align: center;
+    color: black;
+    font-weight: 700;
+    font-size: 17px;
+    margin: 0px;
+    padding-top: 1.5rem;
+    line-height: normal;
+}
+
 .experience-text-date {
     text-align: center;
     color: black;
@@ -126,6 +136,9 @@
         width: 6.5rem;
         height: 6.5rem;
     }
+    .experience-text-location {
+        font-size: 18px;
+    }
 }
 
 @media (max-width: 768px) {
@@ -140,5 +153,8 @@
     }
     .experience-text-desc {
         font-size: 16px;
+    }
+    .experience-text-location {
+        font-size: 18px;
     }
 }

@@ -15,7 +15,8 @@
     "react-headroom": "^3.0.0",
     "react-reveal": "^1.2.2",
     "react-scripts": "^3.4.4",
-    "react-twitter-embed": "3.0.3"
+    "react-twitter-embed": "3.0.3",
+    "serve": "^14.2.1"
   },
   "scripts": {
     "predeploy": "npm run build",

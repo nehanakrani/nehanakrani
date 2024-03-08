@@ -1,6 +1,7 @@
 import React from "react";
 import "./SocialMedia.css";
 import { socialMediaLinks } from "../../portfolio";
+import '@fortawesome/fontawesome-free/css/all.css'; // Import Font Awesome CSS here
 
 export default function socialMedia() {
   return (

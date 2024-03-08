@@ -31,65 +31,7 @@ const skillsSection = {
     emoji("⚡ Managed projects with Agile development methodology, Extreme Programming, and SCRUM via user stories and customer issues.")
   ],
 
-
-  softwareSkills: [
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "Ruby on rails",
-      fontAwesomeClassname: "fa fa-train"
-    },
-    {
-      skillName: "ruby",
-      fontAwesomeClassname: "fas fa-gem"
-    },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    },
-    {
-      skillName: "Elasticsearch/Elasticstack",
-      fontAwesomeClassname: "fa fa-search-plus"
-    },
-    {
-      skillName: "redis",
-      fontAwesomeClassname: "fa fa-server"
-    },
-    {
-      skillName: "cloud computing",
-      fontAwesomeClassname: "fa fa-cloud"
-    }
-  ]
+  softwareSkills:[]
 };
 
 
@@ -161,19 +103,6 @@ const workExperiences = {
         "Utilized Ruby on Rails ecosystem with HTML, JavaScript, Bootstrap, CSS, and jQuery.",
         "Conducted Test Driven Development using RSpec and managed product migration and upgrades.",
         "Optimized database query performance, reducing query time by 25%. Worked on overall architectural problems, scalability, and performance."
-      ]
-    },
-    {
-      role: "Trainee - Internship",
-      company: "Solutelabs",
-      companylogo: "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNS43MjgiIGhlaWdodD0iMzUuODQyIiB2aWV3Qm94PSIwIDAgMzUuNzI4IDM1Ljg0MiI+CiAgICA8ZGVmcz4KICAgICAgICA8c3R5bGU+CiAgICAgICAgICAgIC5jbHMtMXtmaWxsOiMxNjQxZmZ9CiAgICAgICAgPC9zdHlsZT4KICAgIDwvZGVmcz4KICAgIDxwYXRoIGlkPSJTaGFwZV85IiBkPSJNODQuMTc5IDc1LjY3OWMtMy42ODItMi41NzgtOS42ODgtNC4yLTE2LjgtNi4zMzYtMy44MTctMS4xNDctNi4zLTQuOTYtMy41MzctNy45MTlhNy4wMTEgNy4wMTEgMCAwIDEgNS4zMzktMi4wMzljNC45MjYgMCAxMC45IDMuMjE0IDEzLjQxMiA1LjM5bDQuMjczLTYuNTU3aDguOTE0Vjg2LjczYzAgNi42NjgtNyA3LjMzLTcgNy4zMyAyLjUyLTguMzEgMS4xNDUtMTQuMzY1LTQuNjAxLTE4LjM4MXptLTIzLjc5MiAzLjIzYTI5LjUzMiAyOS41MzIgMCAwIDAgNi41ODQgMi40NTJjMi40MzkuNzEyIDguNDMxIDIgMTAuNzc2IDQuMjE4IDIuMDUyIDEuOTM5IDIuNTM2IDcuOTQzLTUuOSA4LjE1My0uMTc5IDAtLjM1NC4wMDctLjUyOC4wMDctMTQuMjQtLjAwMi0xMC45MzItMTQuODMtMTAuOTMyLTE0LjgzeiIgY2xhc3M9ImNscy0xIiBkYXRhLW5hbWU9IlNoYXBlIDkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02MC4wNTQgLTU4LjIxOSkiLz4KPC9zdmc+Cg==",
-      date: "Dec 2017 - May 2018",
-      location: "Ahmedabad, India",
-      descBullets: [
-        "Developed web pages in Ruby on Rails using MVC architecture and REST APIs.",
-        "Utilized RSpec for test-driven development and worked with various Ruby gems and libraries.",
-        "Designed user-interface pages using Twitter Bootstrap, CSS, JavaScript, and jQuery.",
-        "Managed projects with Agile development methodology and SCRUM."
       ]
     }
   ]

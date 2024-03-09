@@ -22,10 +22,9 @@
     "react-twitter-embed": "3.0.3",
     "serve": "^14.2.1"
   },
-
   "scripts": {
-    "predeploy": "npm run build",
-    "start": "react-scripts --openssl-legacy-provider start",
+    "heroku-postbuild": "npm run build",
+    "start": "serve -s build",
     "build": "react-scripts --openssl-legacy-provider build",
     "deploy": "master -d build",
     "test": "react-scripts test",

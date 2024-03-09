@@ -1,6 +1,7 @@
 {
   "name": "nehanakrani",
-  "version": "0.1.0",
+  "description": "Protfilio app",
+  "version": "1.0.0",
   "private": true,
   "engines": {
     "node": "20.11.1"
@@ -23,7 +24,6 @@
   },
 
   "scripts": {
-    "heroku-postbuild": "npm run build",
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
     "deploy": "master -d build",

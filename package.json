@@ -2,6 +2,9 @@
   "name": "nehanakrani",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "20.11.1"
+  },
   "dependencies": {
     "@apollo/react-hooks": "^3.1.4",
     "@fortawesome/fontawesome-free": "^6.5.1",

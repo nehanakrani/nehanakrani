@@ -79,26 +79,10 @@ export default function SoftwareSkill() {
               height="50"
             />
           </a>
-          <a href="https://kotlinlang.org" target="_blank" rel="noopener noreferrer">
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1024px-Kotlin_Icon.svg.png?20171012085709"
-              alt="kotlin"
-              width="70"
-              height="50"
-            />
-          </a>
           <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
             <img
               src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
               alt="flask"
-              width="70"
-              height="50"
-            />
-          </a>
-          <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-              alt="java"
               width="70"
               height="50"
             />

@@ -5,32 +5,27 @@ A collaborative and solution-driven software engineer 👩🏻‍💻 with over 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Skills = {
-  code:  [
-    'Ruby on Rails', 'ElasticSearch', 'GraphQL', 'Elixir', 'ELK Stack', 'Python', 
-    'RESTful API', 'Cloud-MQTT', 'Arduino-C', 'Algolia Search', 'Firebase', 
-    'Memcache', 'Delayed Jobs', 'Sidekiq', 'Capybara', 'Payment Gateway', 
-    'Object-Oriented Programming'
+const skills = {
+  Programming Languages: [
+    'Ruby on Rails', 'ElasticSearch', 'GraphQL', 'Elixir', 'ELK Stack', 'Python', 'RESTful API', 'Cloud-MQTT', 'Arduino-C', 'Algolia Search', 'Firebase', 'Memcache', 'Delayed Jobs', 'Sidekiq', 'Capybara', 'Payment Gateway', 'Object-Oriented Programming'
   ],
-  deployment: [
+  Deployment Technologies: [
     'AWS', 'Heroku', 'Docker', 'Minikube', 'Capistrano', 'Jenkins', 'GitHub Action'
   ],
-  frontend: [
+  Front-end Technologies: [
     'HTML5/CSS3', 'Bootstrap', 'Haml', 'SCSS', 'JavaScript', 'JQuery', 'Angular', 'Svelte JS'
   ],
-  database: [
+  Databases: [
     'PostgreSQL', 'MySQL', 'MongoDB', 'Redis', 'Amazon RDS', 'NoSQL'
   ],
-  monitoring_logging: [
+  Monitoring Logging: [
     'New Relic', 'Datadog', 'Logstash', 'Sentry', 'Kibana', 'Cloudwatch'
   ],
-  testing: [
+  Test Frameworks: [
     'RSpec', 'Cucumber', 'Capybara', 'Minitest', 'Unit test', 'RSpec-Mocks and Stubs'
   ],
-  operating_systems_methodologies: [
-    'Mac OS', 'Fedora Linux', 'Ubuntu Linux', 'Windows', 'Google Analytics', 
-    'PL/SQL Developer', 'GitHub', 'Bitbucket', 'Jira', 'Security practices tool', 
-    'CircleCI', 'Agile', 'Scrum', 'BDD', 'TDD'
+  Pperating Systems & Methodologies: [
+    'Mac OS', 'Fedora Linux', 'Ubuntu Linux', 'Windows', 'Google Analytics', 'PL/SQL Developer', 'GitHub', 'Bitbucket', 'Jira', 'Security practices tool', 'CircleCI', 'Agile', 'Scrum', 'BDD', 'TDD'
   ]
 }
 ```

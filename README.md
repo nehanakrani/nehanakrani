@@ -1,21 +1,37 @@
-### Hi, I'm [Neha Nakrani](http://nehanakrani.herokuapp.com/) 👩🏻‍💻 
+### Hi, I'm [Neha Nakrani](https://neha-nakrani-fcdeffc954b4.herokuapp.com) 👩🏻‍💻 
 
-A software Developer 👩🏻‍💻 and Guitarist with featuring expertise in Ruby on Rails, web frameworks with passion for new technologies mashups and pursuing the knack of open-source contribution."
-
+A collaborative and solution-driven software engineer 👩🏻‍💻 with over 4+ years of experience, specialising in Ruby on Rails and various web frameworks, a strong foundation in functional programming languages, a passion for new technology mashups, and pursuing the knack of open-source contribution, leveraging problem-solving skills creatively.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const neha = {
-  code:  [Ruby on Rails, Python, Java, Javascript, HTML, CSS, JQuery, Bootstrap, SASS, AJAX, GraphQL,C, C++, Arduino c, Arduino UNO, Cloud MQTT ],
-  architecture: [Microservices, API Integrations, Design System Pattern],
-  background_jobs: [Sidekiq, Delayed Job, Redis, Memcache],
-  database: [Postgres, SQLite, MySql],
-  deployment: [Heroku, AWS, Docker, Capistrano],
-  development_processes: [TDD, Agile, SCRUM, Trello, Jira],
-  tdd: [Rspec, MiniTest, Cucumber],
-  code_versioning: [GitHub, Bitbucket, CI/CD(CircleCI)],
-  search_engine: [Algoia Search, Elastic Search]
+const Skills = {
+  code:  [
+    'Ruby on Rails', 'ElasticSearch', 'GraphQL', 'Elixir', 'ELK Stack', 'Python', 
+    'RESTful API', 'Cloud-MQTT', 'Arduino-C', 'Algolia Search', 'Firebase', 
+    'Memcache', 'Delayed Jobs', 'Sidekiq', 'Capybara', 'Payment Gateway', 
+    'Object-Oriented Programming'
+  ],
+  deployment: [
+    'AWS', 'Heroku', 'Docker', 'Minikube', 'Capistrano', 'Jenkins', 'GitHub Action'
+  ],
+  frontend: [
+    'HTML5/CSS3', 'Bootstrap', 'Haml', 'SCSS', 'JavaScript', 'JQuery', 'Angular', 'Svelte JS'
+  ],
+  database: [
+    'PostgreSQL', 'MySQL', 'MongoDB', 'Redis', 'Amazon RDS', 'NoSQL'
+  ],
+  monitoring_logging: [
+    'New Relic', 'Datadog', 'Logstash', 'Sentry', 'Kibana', 'Cloudwatch'
+  ],
+  testing: [
+    'RSpec', 'Cucumber', 'Capybara', 'Minitest', 'Unit test', 'RSpec-Mocks and Stubs'
+  ],
+  operating_systems_methodologies: [
+    'Mac OS', 'Fedora Linux', 'Ubuntu Linux', 'Windows', 'Google Analytics', 
+    'PL/SQL Developer', 'GitHub', 'Bitbucket', 'Jira', 'Security practices tool', 
+    'CircleCI', 'Agile', 'Scrum', 'BDD', 'TDD'
+  ]
 }
 ```
 

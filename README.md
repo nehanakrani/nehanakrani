@@ -76,15 +76,9 @@ Welcome to my GitHub profile! I'm a collaborative and solution-driven **Software
   <img src="https://img.shields.io/badge/-BDD-005571?style=for-the-badge" />
 </p>
 
-<div align="center">
-
-  ### 🌟 **Achievements**
+### 🌟 **Achievements**
   <img src="https://github-profile-trophy.vercel.app/?username=nehanakrani&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  
-  ### 💻 **GitHub Stats**
-  <img src="https://github-readme-stats.vercel.app/api?username=nehanakrani&show_icons=true&theme=radical" alt="Neha's GitHub Stats" />
-  
-</div>
+
 
 ### 🌐 Connect with Me
 

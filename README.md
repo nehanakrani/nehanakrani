@@ -1,6 +1,6 @@
 # Hi, I'm [Neha Nakrani](https://neha-nakrani-fcdeffc954b4.herokuapp.com) 👩🏻‍💻
 
-Welcome to my GitHub profile! I'm a collaborative and solution-driven **Software Engineer** with over 6.5+ years of experience. I specialize in **Ruby on Rails** and other web frameworks, with a passion for creating impactful solutions and contributing to **open source**. 🚀
+Product-focused Software Engineer with 6.5+ years of experience in full-stack development, specializing in Ruby on Rails, Advanced JavaScript, cloud infrastructure, and scalable backend systems. Skilled in building scalable applications, leading cross-functional teams, applying Agile practices, and using modern technologies to deliver impactful, user-centered solutions.🚀
 
 ### ✨ What I Love to Do
 

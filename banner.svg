@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80">
 <defs>
 <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2563eb"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#e11d48">
 <animate attributeName="stop-color" values="#e11d48;#0e7490;#e11d48" dur="6s" repeatCount="indefinite"/></stop></linearGradient>
-<clipPath id="type"><rect x="0" y="30" width="0" height="80"><animate attributeName="width" from="0" to="900" begin="0.3s" dur="1.4s" fill="freeze"/></rect></clipPath>
+<clipPath id="type"><rect x="0" y="0" width="0" height="80"><animate attributeName="width" from="0" to="900" begin="0.2s" dur="1.4s" fill="freeze"/></rect></clipPath>
 </defs>
-<rect width="900" height="140" fill="#ffffff"/>
 <g clip-path="url(#type)">
-<text x="190" y="86" font-family="'Inter','Segoe UI',system-ui,sans-serif"><tspan font-size="28" fill="#6b7280">Hey there &#128075; I'm </tspan><tspan font-size="46" font-weight="800" fill="url(#g)">Neha Nakrani</tspan></text>
+<text x="450" y="56" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,sans-serif"><tspan font-size="28" fill="#6b7280">Hey there &#128075; I'm </tspan><tspan font-size="46" font-weight="800" fill="url(#g)">Neha Nakrani</tspan></text>
 </g>
 </svg>

@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img width="420" src="https://skillicons.dev/icons?i=ruby,rails,elixir,python,graphql,js,angular,html,css,bootstrap,postgres,mysql,mongodb,redis,aws,heroku,docker,kubernetes,githubactions,linux&perline=10" />
+  <img width="460" src="https://skillicons.dev/icons?i=ruby,rails,elixir,python,graphql,js,angular,html,css,bootstrap,postgres,mysql,mongodb,redis,aws,heroku,docker,kubernetes,githubactions,linux&perline=10" />
 </p>
 
 <p align="center">

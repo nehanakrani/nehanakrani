@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Hey there, I'm Neha Nakrani · Senior Software Engineer" />
+  <img src="./banner.svg" width="100%" alt="Hey there, I'm Neha Nakrani" />
 </p>
 
 <p align="center">
@@ -9,10 +9,7 @@
 </p>
 
 <p align="center">
-  <img width="420" src="https://skillicons.dev/icons?i=ruby,rails,elixir,python,graphql,js,angular,html,css,bootstrap,postgres,mysql,mongodb,redis,aws,heroku,docker,kubernetes,githubactions,linux&perline=10" /><br/><br/>
-  <img src="https://img.shields.io/badge/Data-Elasticsearch%20%C2%B7%20REST%20APIs%20%C2%B7%20Amazon%20RDS-005571?style=flat-square&logo=elasticsearch&logoColor=white&labelColor=1a1b27" /><br/>
-  <img src="https://img.shields.io/badge/Observe-New%20Relic%20%C2%B7%20Datadog%20%C2%B7%20Sentry%20%C2%B7%20ELK-632CA6?style=flat-square&logo=datadog&logoColor=white&labelColor=1a1b27" /><br/>
-  <img src="https://img.shields.io/badge/Testing-RSpec%20%C2%B7%20Cucumber%20%C2%B7%20Capybara%20%C2%B7%20Minitest-CC342D?style=flat-square&logo=ruby&logoColor=white&labelColor=1a1b27" />
+  <img width="420" src="https://skillicons.dev/icons?i=ruby,rails,elixir,python,graphql,js,angular,html,css,bootstrap,postgres,mysql,mongodb,redis,aws,heroku,docker,kubernetes,githubactions,linux&perline=10" />
 </p>
 
 <p align="center">
